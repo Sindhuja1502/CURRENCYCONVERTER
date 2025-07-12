@@ -1,0 +1,1 @@
+A simple and interactive web application that allows users to convert one currency to another using real-time exchange rates. Built using HTML, CSS, and JavaScript with data fetched from a public currency API.
